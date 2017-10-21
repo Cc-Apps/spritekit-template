@@ -12,13 +12,19 @@ Feel free to contribute and/or make suggestions.
 
 You can use this template straight off GitHub.
 
-    `$ motion create --template=git@github.com:Cc-Apps/spritekit-template.git <myappname>`
+```Ruby
+motion create --template=git@github.com:Cc-Apps/spritekit-template.git <myappname>
+```
 
 Once you've got the template locally, you can instead do:
 
-    `$ motion create --template=spritekit-template <myappname>`
+```Ruby
+motion create --template=spritekit-template <myappname>
+```
   
 Once it's create, you can do:
 
-    `$ cd <myappname>`
-    `$ bundle exec rake`
+```Ruby
+cd <myappname>
+bundle exec rake
+```
