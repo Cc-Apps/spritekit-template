@@ -22,7 +22,7 @@ Once you've got the template locally, you can instead do:
 motion create --template=spritekit-template <myappname>
 ```
   
-Once it's create, you can do:
+Once it's created, you can do:
 
 ```Ruby
 cd <myappname>
